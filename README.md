@@ -1,2 +1,2 @@
 # docker
-Getting started.
+Getting started and running containers.
